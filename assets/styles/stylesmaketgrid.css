@@ -3,6 +3,7 @@
     grid-template-columns: 2fr 1fr;
     align-content: space-between;
 }
+
 .logo {
     display: grid;
     grid-template-columns: 100px 100px;
@@ -20,6 +21,7 @@
     text-transform: uppercase;
     color: #333333;;
 }
+
 .menu {
     display: grid;
     grid-template-columns: repeat(4, 100px);
@@ -37,9 +39,11 @@
     text-transform: uppercase;
     color: #404040;
 }
+
 nav .menu:hover {
     text-decoration:underline;
 }
+
 .main {
     display: grid;
     grid-template-rows: 50px 50px;
@@ -59,6 +63,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #FFFFFF;
 }
+
 .smalltext {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -67,6 +72,7 @@ nav .menu:hover {
     line-height: 20px;
     color: rgba(255, 255, 255, 0.81);
 }
+
 .contact {
     display: grid;
     align-items: center;
@@ -75,6 +81,7 @@ nav .menu:hover {
     padding: 70px;
     background-color: #FEFEC9;
 }
+
 .text {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
@@ -89,6 +96,7 @@ nav .menu:hover {
     color: #47474F;
     border-radius: 0px;
 }
+
 .button {
     width: 159px;
     height: 53px;
@@ -101,6 +109,7 @@ nav .menu:hover {
     color: #47474F;
     background:#FEFEC9;
 }
+
 .how {
     display: grid;
     justify-content: center;
@@ -114,6 +123,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .how-we-make {
     display: grid;
     grid-template-columns: repeat(3, 300px);
@@ -121,24 +131,28 @@ nav .menu:hover {
     justify-content:center;
     grid-gap: 20px;
 }
+
 .thrive {
     display: grid;
     justify-content: center;
     padding: 50px;
     background: #F5F5F5;
 }
+
 .thrive2 {
     display: grid;
     justify-content: center;
     padding: 50px;
     background: #F5F5F5;
 }
+
 .thrive3 {
     display: grid;
     justify-content: center;
     padding: 50px;
     background: #F5F5F5;
 }
+
 .headlines1 {
     font-family: 'Montserrat';
     font-style: normal;
@@ -149,6 +163,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .headlines2 {
     font-family: 'Montserrat';
     font-style: normal;
@@ -159,6 +174,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .headlines3 {
     font-family: 'Montserrat';
     font-style: normal;
@@ -169,6 +185,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .text-1 {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -178,6 +195,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .text-2 {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -187,6 +205,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .text-3 {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -196,10 +215,12 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .projects {
     background: #F5F5F5;
     padding: 0px 0px 100px 0px;
 }
+
 .recent-projects {
     display: grid;
     justify-content: center;
@@ -214,6 +235,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .project {
     display: grid;
     grid-template-columns: repeat(3, 300px);
@@ -222,9 +244,11 @@ nav .menu:hover {
     grid-gap: 20px;
     
 }
+
 .project-1 {
     background: #FFFFFF;
 }
+
 .woods {
     padding: 10px;
     font-family: 'Montserrat';
@@ -236,6 +260,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .photography {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -245,9 +270,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-2 {
     background: #FFFFFF;
 }
+
 .path {
     padding: 10px;
     font-family: 'Montserrat';
@@ -259,6 +286,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .website-photo {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -268,9 +296,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-3 {
     background: #FFFFFF;
 }
+
 .darkness {
     padding: 10px;
     font-family: 'Montserrat';
@@ -282,6 +312,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .website {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -291,9 +322,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-4 {
     background: #FFFFFF;
 }
+
 .waves {
     padding: 10px;
     font-family: 'Montserrat';
@@ -305,6 +338,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .photo-waves {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -314,9 +348,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-5 {
     background: #FFFFFF;
 }
+
 .drops {
     padding: 10px;
     font-family: 'Montserrat';
@@ -328,6 +364,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .drops-web {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -337,9 +374,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-6 {
     background: #FFFFFF;
 }
+
 .ocean {
     padding: 10px;
     font-family: 'Montserrat';
@@ -351,6 +390,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .ocean-web {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -360,9 +400,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-7 {
     background: #FFFFFF;
 }
+
 .town {
     padding: 10px;
     font-family: 'Montserrat';
@@ -374,6 +416,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .town-web {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -383,9 +426,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-8 {
     background: #FFFFFF;
 }
+
 .mountain {
     padding: 10px;
     font-family: 'Montserrat';
@@ -397,6 +442,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .mountain-web {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -406,9 +452,11 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .project-9 {
     background: #FFFFFF;
 }
+
 .camera {
     padding: 10px;
     font-family: 'Montserrat';
@@ -420,6 +468,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .camera-web {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -429,6 +478,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .our-team {
     display: grid;
     justify-content: center;
@@ -442,12 +492,14 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .team {
     display: grid;
     grid-template-columns: repeat(4, 220px);
     justify-content:center;
     grid-gap: 20px;
 }
+
 .name-founder {
     padding: 10px;
     font-family: 'Montserrat';
@@ -459,6 +511,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .founder {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -468,6 +521,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .name-marketing {
     padding: 10px;
     font-family: 'Montserrat';
@@ -479,6 +533,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .marketing {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -488,6 +543,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .name-designer {
     padding: 10px;
     font-family: 'Montserrat';
@@ -499,6 +555,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .designer {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -508,6 +565,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .name-developer {
     padding: 10px;
     font-family: 'Montserrat';
@@ -519,6 +577,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .developer {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -528,6 +587,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .social-network-1 {
     padding: 15px;
     display: grid;
@@ -535,6 +595,7 @@ nav .menu:hover {
     justify-content: center;
     grid-gap: 15px;
 }
+
 .social-network-2 {
     padding: 15px;
     display: grid;
@@ -542,6 +603,7 @@ nav .menu:hover {
     justify-content: center;
     grid-gap: 15px;
 }
+
 .social-network-3 {
     padding: 15px;
     display: grid;
@@ -549,6 +611,7 @@ nav .menu:hover {
     justify-content: center;
     grid-gap: 15px;
 }
+
 .social-network-4 {
     padding: 15px;
     display: grid;
@@ -556,9 +619,11 @@ nav .menu:hover {
     justify-content: center;
     grid-gap: 15px;
 }
+
 .comments {
     background-color: #F5F5F5;
 }
+
 .quotes {
     display: grid;
     justify-content: center;
@@ -566,6 +631,7 @@ nav .menu:hover {
     margin: 50px 0px 0px 0px;
     padding: 70px;
 }
+
 .commentators {
     display: grid;
     grid-template-columns: 338px 2px 338px;
@@ -573,6 +639,7 @@ nav .menu:hover {
     grid-gap: 20px;
     padding: 50px;
 }
+
 .comments-1 {
     display: grid;
     justify-items: center;
@@ -580,6 +647,7 @@ nav .menu:hover {
     grid-template-rows: 90px 70px 20px;
     grid-gap: 20px;
 }
+
 .comments-2 {
     display: grid;
     justify-items: center;
@@ -587,6 +655,7 @@ nav .menu:hover {
     grid-template-rows: 90px 70px 20px;
     grid-gap: 20px;
 }
+
 .comment-1 {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -596,6 +665,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .commentator-1 {
     font-family: 'Montserrat';
     font-style: normal;
@@ -603,6 +673,7 @@ nav .menu:hover {
     font-size: 14px;
     line-height: 20px;
 }
+
 .comment-2 {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -612,6 +683,7 @@ nav .menu:hover {
     text-align: center;
     color: #333333;
 }
+
 .commentator-2 {
     font-family: 'Montserrat';
     font-style: normal;
@@ -619,10 +691,12 @@ nav .menu:hover {
     font-size: 14px;
     line-height: 20px;
 }
+
 .touch {
     background-image: url(../images/fon-minimal.png);
     padding: 0px 0px 100px 0px;
 }
+
 .in-touch {
     display: grid;
     justify-content: center;
@@ -636,6 +710,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .contacts {
     display: grid;
     grid-template-columns: repeat(3, 173px);
@@ -643,6 +718,7 @@ nav .menu:hover {
     align-items: center;
     grid-gap: 70px;
 }
+
 .location {
     display: grid;
     justify-items: center;
@@ -650,6 +726,7 @@ nav .menu:hover {
     grid-template-rows: 65px 20px 88px;
     grid-gap: 20px;
 }
+
 .communication {
     display: grid;
     justify-items: center;
@@ -657,6 +734,7 @@ nav .menu:hover {
     grid-template-rows: 65px 20px 88px;
     grid-gap: 20px;
 }
+
 .social-networks {
     display: grid;
     justify-items: center;
@@ -664,10 +742,12 @@ nav .menu:hover {
     grid-template-rows: 65px 20px 88px;
     grid-gap: 20px;
 }
+
 .social-net {
     display: grid;
     grid-template-rows: repeat(3, 20px);
 }
+
 .nav {
     font-family: 'Montserrat';
     font-style: normal;
@@ -677,6 +757,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .address {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -685,6 +766,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #212121;
 }
+
 .mail {
     font-family: 'Montserrat';
     font-style: normal;
@@ -694,6 +776,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .email {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -702,6 +785,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #212121;
 }
+
 .social {
     font-family: 'Montserrat';
     font-style: normal;
@@ -711,6 +795,7 @@ nav .menu:hover {
     text-transform: uppercase;
     color: #333333;
 }
+
 .social-net {
     font-family: 'Vollkorn';
     font-style: normal;
@@ -719,6 +804,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #212121;
 }
+
 .footer {
     display: grid;
     grid-template-rows: repeat(3, 57px) 127px;
@@ -726,6 +812,7 @@ nav .menu:hover {
     background-color: #000000;
     padding: 60px;
 }
+
 .name {
     background: rgba(255, 255, 255, 0.18);
     width: 564px;
@@ -737,6 +824,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #FFFFFF;
 }
+
 .email-input {
     background: rgba(255, 255, 255, 0.2);
     width: 564px;
@@ -748,6 +836,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #FFFFFF;
 }
+
 .budget {
     background: rgba(255, 255, 255, 0.18);
     width: 564px;
@@ -759,6 +848,7 @@ nav .menu:hover {
     line-height: 22px;
     color: #FFFFFF;
 }
+
 .textarea {
     width: 564px;
     height: 127px;
@@ -770,12 +860,14 @@ nav .menu:hover {
     line-height: 22px;
     color: #FFFFFF;
 }
+
 .footer-2 {
     display: grid;
     grid-template-rows: 1fr 1fr 30px;
     justify-content: center;
     align-items: center;
 }
+
 .button-2 {
     width: 210px;
     height: 53px;
@@ -790,11 +882,13 @@ nav .menu:hover {
     line-height: 22px;
     color: #8BCAC3;
 }
+
 .logo-2 {
     display: grid;
     justify-content: center;
     justify-items: center;
 }
+
 .rights {
     font-family: 'Vollkorn';
     font-style: normal;
